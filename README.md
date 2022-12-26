@@ -1,2 +1,6 @@
 # Myawesomeconfig
-# Myawesomeconfig
+
+### dependencies
+> `hyper`
+> `alsa'
+> 
